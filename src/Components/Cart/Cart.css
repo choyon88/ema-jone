@@ -1,0 +1,11 @@
+.cart-container{
+    background: #FFE0B3;
+padding: 25px;
+position: sticky;
+top: 0;
+}
+.cart-info h6{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
